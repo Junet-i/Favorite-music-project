@@ -50,6 +50,9 @@ html{
 
 .penyanyi p{
     margin-top: 5px;
+    font-size: 17px;
+    cursor: pointer;
+    color: rgb(85, 85, 85);
 }
 
 .bawah {
