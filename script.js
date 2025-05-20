@@ -1,18 +1,18 @@
 //  Lagu, Penyanyi, Likes, Play, link
 
 var lagu = [
-    ['Mangu' , 'Fourtwnty' , 14044 , 28023 , "img/mangu.jpeg"],
-    ['Right Now' , 'NewJeans' , 20501 , 25090 , "img/right-now.jpeg"],
-    ['Lesung pipi' , 'Raimlaode' , 18541 , 27062 , "img/lesung-pipi.jpeg"],
-    ['HANDS UP' , 'MEOVV' , 11099 , 20299 , "img/hands-up.jpeg"],
-    ['love.' , 'Wave to Earth' , 20129 , 33000 , "img/love..jpeg"],
-    ['Season of Memories' , 'Gfriend' , 12102 , 23402 , "img/season-of-memories.jpeg"],
-    ['See That?' , 'NMIXX' , 22002 , 28043 , "img/see-that.jpeg"],
-    ['Love Language' , 'Tomorrow X Together' , 21501 , 32398 , "img/love-language.jpeg"],
-    ['HOT' , 'Le Sserafim' , 23231 , 37062 , "img/hot.jpg"],
-    ['My Girl' , 'A.C.E' , 24649 , 32532 , "img/my-girl.jpeg"],
-    ["Car's Outside" , 'James Arthur' , 43719 , 53320 , "img/cars-outside.jpeg"],
-    ['Say Yes' , 'Loco,Punch' , 22102 , 32402 , "img/say-yes.jpeg"],
+    ['Mangu' , 'Fourtwnty' , "66 rb" , "92 jt" , "img/mangu.jpeg"],
+    ['Right Now' , 'NewJeans' , "126 rb" , "55 jt" , "img/right-now.jpeg"],
+    ['Lesung pipi' , 'Raimlaode' , "35 rb" , "7,6 jt" , "img/lesung-pipi.jpeg"],
+    ['HANDS UP' , 'MEOVV' , "62 rb" , "42 jt" , "img/hands-up.jpeg"],
+    ['love.' , 'Wave to Earth' , "161 rb" , "52 jt" , "img/love..jpeg"],
+    ['Season of Memories' , 'Gfriend' , "76 rb" , "22 jt" , "img/season-of-memories.jpeg"],
+    ['별별별 (See That?)' , 'NMIXX' , "94 rb" , "68 jt" , "img/see-that.jpeg"],
+    ['Love Language' , 'Tomorrow X Together' , "56 rb" , "29 jt" , "img/love-language.jpeg"],
+    ['HOT' , 'Le Sserafim' , "112 rb" , "89 jt" , "img/hot.jpg"],
+    ['My Girl' , 'A.C.E' , "82" , "4,6 jt" , "img/my-girl.jpeg"],
+    ["Car's Outside" , 'James Arthur' , "772 rb" , "355 jt" , "img/cars-outside.jpeg"],
+    ['Say Yes' , 'Loco,Punch' , "433 rb" , "614 jt" , "img/say-yes.jpeg"],
 ];
 
 // variabel
