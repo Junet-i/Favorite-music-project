@@ -1,7 +1,7 @@
 //  Lagu, Penyanyi, Likes, Play, link
 
 var lagu = [
-    ['Mangu' , 'Fourtwnty' , 14044 , 28023 , "Favorite-music-project/img/mangu.jpeg"],
+    ['Mangu' , 'Fourtwnty' , 14044 , 28023 , "img/mangu.jpeg"],
     ['Right Now' , 'NewJeans' , 20501 , 25090 , "img/right-now.jpeg"],
     ['Lesung pipi' , 'Raimlaode' , 18541 , 27062 , "img/lesung-pipi.jpeg"],
     ['HANDS UP' , 'MEOVV' , 11099 , 20299 , "img/hands-up.jpeg"],
