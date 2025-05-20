@@ -32,8 +32,8 @@ for ( var i=0; i < lagu.length ; i++) {
         </small>
         
         <div class="bawah">
-            <div class="kanan"><i class="fa-solid fa-play"></i> ${item[2]}</div>
-            <div class="kiri"><i class="fa-solid fa-heart"></i> ${item[3]}</div>
+            <div class="kanan"><i class="fa-solid fa-play"></i> ${item[3]}</div>
+            <div class="kiri"><i class="fa-solid fa-heart"></i> ${item[2]}</div>
         </div>
     </div>        
     `;
